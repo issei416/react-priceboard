@@ -1,6 +1,9 @@
 # React Price Card
 
-Currently, two official plugins are available:
+This project has a Price board component which shoes 3 different plans to choose for pricing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Techs used:
+* HTML
+* CSS
+* Bootstrap
+* React
