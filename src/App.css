@@ -43,7 +43,7 @@ ul.custom-list li::before {
 }
 
 .mutedLi::before {
-  background-image: url('./assets/include.png'); 
+  background-image: url('./assets/exclude.png'); 
 }
 
 .includeLi {
