@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-image: url('./public/root-bg.svg');
+  background-image: url('./assets/root-bg.svg');
   border-radius: 2rem;
 }
 
@@ -39,11 +39,11 @@ ul.custom-list li::before {
 }
 
 .includedLi::before {
-  background-image: url('./public/include.png'); 
+  background-image: url('./assets/include.png'); 
 }
 
 .mutedLi::before {
-  background-image: url('./public/exclude.png'); 
+  background-image: url('./assets/include.png'); 
 }
 
 .includeLi {
